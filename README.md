@@ -4,6 +4,11 @@
 
 This project is an AI-powered app that leverages Google Gemini Vision Pro to read invoices and extract details such as the invoice date, total due amount, owner address, and more. Users can ask questions in natural language about invoice details, and the app processes their queries using AI to provide accurate information.
 
+
+
+https://github.com/mayankkala/InvoiceReader/assets/70965801/f76459a0-c203-442a-9061-37535dfe8db7
+
+
 ## Features
 
 - **Invoice Reading:** The app uses Google Gemini Vision Pro to read invoices and extract key details.
